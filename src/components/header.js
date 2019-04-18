@@ -12,7 +12,7 @@ class Header extends Component {
 					<nav className="menu">
 						<ul>
 							<li><Link to="/">Home</Link></li>
-							<li><Link to="/empresa">A Empresa</Link></li>
+							<li><Link to="/sobre">A Empresa</Link></li>
 							<li><Link to="/servicos">Os Serviços</Link></li>
 							<li><Link to="/fale-conosco">Fale Conosco</Link></li>
 						</ul>
